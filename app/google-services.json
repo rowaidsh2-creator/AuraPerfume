@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190915872039",
+    "project_id": "aura-perfume-81bb5",
+    "storage_bucket": "aura-perfume-81bb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190915872039:android:1294531319fa762dc75502",
+        "android_client_info": {
+          "package_name": "com.example.auraperfume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJof4CZ7anYeVJrwRTh9ulhHHX9y501ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
